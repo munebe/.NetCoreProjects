@@ -1,0 +1,15 @@
+D:\Projects\OOPWithRepositoryPattern\bin\Debug\net6.0\OOPWithRepositoryPattern.exe
+D:\Projects\OOPWithRepositoryPattern\bin\Debug\net6.0\OOPWithRepositoryPattern.deps.json
+D:\Projects\OOPWithRepositoryPattern\bin\Debug\net6.0\OOPWithRepositoryPattern.runtimeconfig.json
+D:\Projects\OOPWithRepositoryPattern\bin\Debug\net6.0\OOPWithRepositoryPattern.dll
+D:\Projects\OOPWithRepositoryPattern\bin\Debug\net6.0\OOPWithRepositoryPattern.pdb
+D:\Projects\OOPWithRepositoryPattern\obj\Debug\net6.0\OOPWithRepositoryPattern.csproj.AssemblyReference.cache
+D:\Projects\OOPWithRepositoryPattern\obj\Debug\net6.0\OOPWithRepositoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\OOPWithRepositoryPattern\obj\Debug\net6.0\OOPWithRepositoryPattern.AssemblyInfoInputs.cache
+D:\Projects\OOPWithRepositoryPattern\obj\Debug\net6.0\OOPWithRepositoryPattern.AssemblyInfo.cs
+D:\Projects\OOPWithRepositoryPattern\obj\Debug\net6.0\OOPWithRepositoryPattern.csproj.CoreCompileInputs.cache
+D:\Projects\OOPWithRepositoryPattern\obj\Debug\net6.0\OOPWithRepositoryPattern.dll
+D:\Projects\OOPWithRepositoryPattern\obj\Debug\net6.0\refint\OOPWithRepositoryPattern.dll
+D:\Projects\OOPWithRepositoryPattern\obj\Debug\net6.0\OOPWithRepositoryPattern.pdb
+D:\Projects\OOPWithRepositoryPattern\obj\Debug\net6.0\OOPWithRepositoryPattern.genruntimeconfig.cache
+D:\Projects\OOPWithRepositoryPattern\obj\Debug\net6.0\ref\OOPWithRepositoryPattern.dll
